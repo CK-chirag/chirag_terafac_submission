@@ -1,4 +1,5 @@
 # Flowers-102 Deep Learning Training Pipeline
+**NOTE: I have runned the main ipynb file only, pls check for that run check**
 A complete multi-level training framework built using **PyTorch**, designed for experimentation, performance improvement, and model interpretability on the **Flowers-102** classification dataset.
 
 This project includes:
